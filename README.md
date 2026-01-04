@@ -1,16 +1,15 @@
-## Hi there 👋
+# hi, i'm adam 👋
 
-<!--
-**amizmada/amizmada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+focusing on **graphic design** and **visual identities**.
+while my main creative work lives on my website, i use github to archive my technical side.
 
-Here are some ideas to get you started:
+### 🎨 design
+you can find my full portfolio at **[adamzima.com](https://adamzima.com)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 code
+here, i store school assignments and technical projects that don't fit into a visual portfolio:
+* **pascal / delphi** – algorithmic problems and desktop apps
+* **web** – html/css playgrounds
+
+---
+📍 [prague, cz] • ✉️ [adam@adamzima.com](mailto:adam@adamzima.com)
