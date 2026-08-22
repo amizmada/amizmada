@@ -1,7 +1,7 @@
 # i'm adam 👋
 
-focusing on **graphic design** and **visual identities**.
-while my main creative work lives on my website, i use github to archive my technical side.
+focusing on **graphic design** and **web design**.
+while my creative work lives on my website, i use github to archive my technical projects.
 
 ### 🖼️ design
 you can find my full portfolio at **[adamzima.com](https://adamzima.com)**.
